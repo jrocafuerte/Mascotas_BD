@@ -1,5 +1,5 @@
-# Semana4Mascotas
-Semana4Mascotas
+# Semana5MascotasBase_Datos
+Semana5MascotasBase_Datos
 
 
 Para el funcionamiento del envio de Correo se debe ingresar su correo y contraseña en el FormularioCorreo.java
